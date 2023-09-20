@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\swd_apidocs.props" />
+</Project>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "swd_apidocs", "swd_apidocs\swd_apidocs.csproj", "{FDBC4F5D-9DF8-4FA8-BAEF-AD84077B4254}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDBC4F5D-9DF8-4FA8-BAEF-AD84077B4254}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDBC4F5D-9DF8-4FA8-BAEF-AD84077B4254}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDBC4F5D-9DF8-4FA8-BAEF-AD84077B4254}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDBC4F5D-9DF8-4FA8-BAEF-AD84077B4254}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22950F6D-07F7-49C9-AF5C-9B319AC7F39B}
+	EndGlobalSection
+EndGlobal
